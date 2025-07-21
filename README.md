@@ -23,7 +23,7 @@ Watermark Genie is a professional batch watermarking application that lets you r
 ## ✨ Core Features
 
 **🚀 Proven Reliability**  
-Battle-tested with thousands of successful deployments. Handles massive batches without breaking a sweat.
+Battle-tested with successful deployments. Handles large batches (+5000 limit current) without breaking a sweat.
 
 **🎯 9-Point Precision**  
 Precise watermark placement with a professional 9-point grid system. Position your logo exactly where you want it.
@@ -48,7 +48,7 @@ Detailed CSV reports of every processed image. Perfect for client deliverables a
 
 ## 📥 Download & Installation
 
-### Windows (Recommended)
+### Windows Only Current (Recommended)
 
 **Option 1: Windows Installer (New in V2.0)**
 - Download `Watermark-Genie-2.0-Setup.exe` from [Releases](https://github.com/Glenskii/watermark-gienie/releases)
