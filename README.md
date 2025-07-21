@@ -239,9 +239,20 @@ Examples:
 Contributions are welcome! Please feel free to:
 
 1. **Report Bugs** - Use the Issues tab with detailed descriptions
-2. **Suggest Features** - Share ideas for future versions
+2. **Request Features** - Submit feature requests via GitHub Issues
 3. **Test Beta Versions** - Help validate new features
 4. **Improve Documentation** - Help others understand the tool
+
+### How to Submit Issues or Feature Requests
+
+**For Bug Reports or Feature Requests:**
+1. Go to [GitHub Issues](https://github.com/Glenskii/watermark-gienie/issues)
+2. Click **"New issue"**
+3. Choose **"Bug report"** or **"Feature request"**
+4. Fill out the template form (it will guide you through the details)
+5. Click **"Submit new issue"**
+
+**No GitHub experience required** - just follow the form prompts!
 
 ### Development Setup
 ```bash
