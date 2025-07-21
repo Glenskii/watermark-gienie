@@ -154,9 +154,15 @@ watermark_genie.exe --cli \
 
 ### V2.0 Interface with Live Preview
 
-![Watermark Genie v2.0 Interface](screenshot-v2.png)
+![Watermark Genie v2.0 Interface](screenshot-v2-main.png)
 
 *New live preview system with dynamic canvas sizing and real-time updates*
+
+### Built-in Help and Documentation
+
+![Help and About Dialog](screenshot-v2-help.png)
+
+*Comprehensive help system with feature overview and support links*
 
 ### Command-Line Interface
 
